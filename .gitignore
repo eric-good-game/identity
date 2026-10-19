@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+dist/
+build/
+coverage/
+
+# Secretos y entorno local: nunca se versionan
+secrets/
+.env
+.env.*
+*.pem
+*.key
+
+# Prisma
+prisma/*.db
+prisma/*.db-journal
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
