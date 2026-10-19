@@ -2,7 +2,7 @@
 
 Servicio de identidad del portafolio: usuarios, roles, empleados, sesiones y emisión de tokens JWT. Es el servicio compartido del que dependen Inventory, Tickets y Store.
 
-Estado: **hito 0 (preparación)**. Todavía no hay código; el esqueleto de NestJS llega en el hito 2, el modelo de datos en el 3 y la autenticación en el 5.
+Estado: **hito 0 completado**. Todavía no hay código; el esqueleto de NestJS llega en el hito 2, el modelo de datos en el 3 y la autenticación en el 5.
 
 ## Qué hará
 
